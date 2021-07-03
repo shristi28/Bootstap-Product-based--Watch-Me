@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,800&display=swap');
+body{
+    font-family:'Poppins', sans-serif; 
+    font: bolder;
+    font-size: 15px;
+    background-color: black ;
+    padding: 10px;
+}
+
+.nav{
+    border : 6px solid rgb(38, 152, 172) ; 
+    font-size: 25px;
+    
+}
+.con{
+    border: 1px solid blanchedalmond;
+    margin-top: 10px;
+    background-image: linear-gradient(to TOP  RIGHT , rgba(145, 209, 212, 0.986) , rgb(245, 225, 138));
+}
+.carousel-inner{
+    padding-top: 10px;
+}
+.grid{
+    padding: 10px;
+}
+.card-group{
+    padding: 10px;
+    padding-bottom: 50px;
+}
+.fakeimg {
+    height: 200px;
+    
+  }
+.col-sm-4{
+    border: 2px solid rgb(206, 128, 92) ;  padding: 10px;
+    
+}
+
+.col-sm-8{
+    border: 2px solid rgb(206, 128, 92) ;  padding: 10px;}
+
+.pic3{ 
+    height: 600px;
+    /* width: 50px; */
+}
+.pic2{ 
+    height: 600px;
+    /* width: 50px; */
+}.pic1{ 
+    height: 600px;
+    /* width: 50px; */
+}
+.par{
+     font-size: 30px;
+}
+.h5{
+    font-size: 50px;
+}
+.btn-outline-info{
+    color: chocolate;
+}
